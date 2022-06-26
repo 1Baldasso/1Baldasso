@@ -51,6 +51,4 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/1Baldasso/1Baldasso/blob/output/snake.svg" alt="Snake animation" />
-
 ###
