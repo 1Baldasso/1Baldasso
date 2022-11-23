@@ -45,7 +45,7 @@
 
 ###
 
-<p align="left">Currently Studying Panda3D and Python</p>
+<p align="left">Currently .Net Back-end Developer</p>
 
 ###
 
